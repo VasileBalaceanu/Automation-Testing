@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Politrip_TestSuite", "Politrip_TestSuite\Politrip_TestSuite.csproj", "{3DD5E962-DD19-4754-81C9-F0B606E454D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD5E962-DD19-4754-81C9-F0B606E454D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD5E962-DD19-4754-81C9-F0B606E454D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD5E962-DD19-4754-81C9-F0B606E454D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD5E962-DD19-4754-81C9-F0B606E454D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCB0B00-AA26-428E-B2C1-7FD205751CC1}
+	EndGlobalSection
+EndGlobal
